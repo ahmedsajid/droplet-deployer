@@ -2,7 +2,7 @@
 
 Simple Flask app which deploys a droplet onto Digital ocean.
 
-Behind the scenes there's (Pulumi)[github.com/pulumi/pulumi] being used.
+Behind the scenes there's [Pulumi](github.com/pulumi/pulumi) being used.
 
 ## Background
 
