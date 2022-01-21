@@ -2,7 +2,9 @@
 
 Simple Flask app which deploys a droplet onto Digital ocean.
 
-Behind the scenes there's [Pulumi](github.com/pulumi/pulumi) being used.
+![Droplet Deployer Overview](./docs/assets/droplet-deployer.png)
+
+Behind the scenes there's [Pulumi](github.com/pulumi/pulumi) Automation API being used.
 
 ## Background
 
